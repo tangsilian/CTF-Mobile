@@ -1,0 +1,4 @@
+	install
+1) make
+2) sudo insmod mem_driver.ko
+3) sudo chmod 666 /dev/memdev*
